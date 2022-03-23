@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "goblin",
+      "image": "https://oldschool.runescape.wiki/images/Goblin_%28green%2C_historical_v1%29.png?f9c52",
+      "price": "10000000",
+      "id": 8
+    },
+    {
+      "name": "Dwayne Johnson",
+      "image": "https://static.onecms.io/wp-content/uploads/sites/6/2016/11/dwayne-johnson.jpg",
+      "price": "2",
+      "id": 9
     }
   ]
 }
